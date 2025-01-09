@@ -27,6 +27,10 @@ Tampilan output deploy
 
 <img src="https://github.com/Muhammadazrulihwan/Kesehatan-Mental-Menggunakan-Model-LSTM/blob/main/ss%20output.png" width="750" height="700">
 
+## Link Deploy
+
+https://mentalhealthbyazrul.streamlit.app/
+
 
 ## Referensi:
 
