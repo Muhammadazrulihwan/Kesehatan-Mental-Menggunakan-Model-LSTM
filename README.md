@@ -1,5 +1,5 @@
 # Kesehatan-Mental-Menggunakan-Model-LSTM
-<img src="https://github.com/Muhammadazrulihwan/Kesehatan-Mental-Menggunakan-Model-LSTM/blob/main/pp%20project.png" width="750" height="700">
+<img src="https://github.com/Muhammadazrulihwan/Kesehatan-Mental-Menggunakan-Model-LSTM/blob/main/pp%20project.png" width="850" height="800">
 
 ## Latar Belakang Proyek
 
