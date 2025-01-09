@@ -12,7 +12,9 @@ Aplikasi chatbot ini dibangun menggunakan Streamlit untuk menyediakan antarmuka 
 
 Proyek ini bertujuan untuk mendeteksi tanda-tanda awal gangguan mental, memberikan dukungan awal, dan meningkatkan aksesibilitas informasi tentang kesehatan mental. Meskipun chatbot ini tidak dimaksudkan untuk menggantikan profesional medis, keberadaannya dapat menjadi langkah awal yang signifikan, terutama di wilayah dengan keterbatasan akses ke layanan kesehatan mental. Dengan inovasi berbasis AI ini, proyek ini menunjukkan potensi teknologi dalam mendukung kesehatan mental masyarakat secara lebih luas.
 
-
+## Dataset
+Pada pembuatan chatbot ini membutuhkan dataset yang sangat banyak
+Untuk mengambil datanya saya ambil dari situs data publik yaitu dari Kaggle. Halaman ini menyajikan data dalam format .json yang berisi obrolan umum atau percakapan dan pengetahuan mengenai kesehatan mental. Ada tautan untuk Dataset : https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
 Referensi:
 
 https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
