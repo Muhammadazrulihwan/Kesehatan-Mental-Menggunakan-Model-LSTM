@@ -18,7 +18,7 @@ Untuk mengambil datanya saya ambil dari situs data publik yaitu dari Kaggle. Hal
 
 ## Deployment
 Buka website stremlit untuk mendeploy aplikasi kita 
-<img src="https://github.com/Muhammadazrulihwan/Kesehatan-Mental-Menggunakan-Model-LSTM/blob/main/ss%20deploy.png" width="500" height="500">
+<img src="https://github.com/Muhammadazrulihwan/Kesehatan-Mental-Menggunakan-Model-LSTM/blob/main/ss%20deploy.png" width="400" height="600">
 
 
 
