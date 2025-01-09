@@ -36,8 +36,6 @@ https://mentalhealthbyazrul.streamlit.app/
 
 https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
 
-https://github.com/Mazcho/Implementasi-Sequential-LSTM-Model-dalam-Chatbot-Kesehatan-Mental-Remaja-Menggunakan-TensorFlow?tab=readme-ov-file
-
 https://github.com/Vikranth3140/Mental-Health-Support-Chatbot
 
 https://www.who.int/news-room/fact-sheets/detail/depression
