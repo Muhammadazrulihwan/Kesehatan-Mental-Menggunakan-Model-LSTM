@@ -15,7 +15,13 @@ Proyek ini bertujuan untuk mendeteksi tanda-tanda awal gangguan mental, memberik
 ## Dataset
 Pada pembuatan chatbot ini membutuhkan dataset yang sangat banyak
 Untuk mengambil datanya saya ambil dari situs data publik yaitu dari Kaggle. Halaman ini menyajikan data dalam format .json yang berisi obrolan umum atau percakapan dan pengetahuan mengenai kesehatan mental. Ada tautan untuk Dataset : https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
-Referensi:
+
+## Deployment
+Buka website stremlit untuk mendeploy aplikasi kita 
+
+
+
+## Referensi:
 
 https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data/data
 
